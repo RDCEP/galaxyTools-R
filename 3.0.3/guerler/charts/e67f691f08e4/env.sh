@@ -1,0 +1,1 @@
+if [ -f /mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/env.sh ] ; then . /mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/env.sh ; fi

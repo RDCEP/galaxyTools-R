@@ -1,0 +1,11 @@
+TCL_LIBRARY=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/lib/libtcl8.4.so; export TCL_LIBRARY
+TK_LIBRARY=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/lib/libtk8.4.so; export TK_LIBRARY
+R_DOC_DIR=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/lib/R/doc; export R_DOC_DIR
+R_HOME_DIR=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/lib/R; export R_HOME_DIR
+R_INCLUDE_DIR=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/lib/R/include; export R_INCLUDE_DIR
+R_SHARE_DIR=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/lib/R/share; export R_SHARE_DIR
+R_ROOT_DIR=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0; export R_ROOT_DIR
+R_HOME=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/lib/R; export R_HOME
+RHOME=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/lib/R; export RHOME
+R_LIBS=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/lib/R/library; export R_LIBS
+PATH=/mnt/galaxyTools/R/3.0.3/iuc/package_r_3_0_3/f386d7431fe0/bin:$PATH; export PATH
